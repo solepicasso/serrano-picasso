@@ -13,7 +13,18 @@ body{
 h1 {; text-align:center; font-weight:700;}
  h2 {text-align:center; font-weight:700;}
  h3{font-family: 'Cutive Mono', monospace; text-align:center; font-weight:700;}
+.titulo-blanco{
+	color: white;
+	line-height: 0px;
+}
 
+.caja-negra{
+	margin: auto;
+	width: 300px;
+	height: 70px;
+	background-color: black;
+	margin-bottom: 50px;
+}
 h4, h5, h6{font-weight:700;}
 
 h1{letter-spacing:0.1em; color:black;}
@@ -21,6 +32,7 @@ h1{letter-spacing:0.1em; color:black;}
 h2{letter-spacing:0.02em; color:rgba(25,25,25,0.5); padding:0.2em 0; }
 
 h3{letter-spacing:0.2em; color:rgba(0,0,0,1); padding:2em 0 0.6em 0; }
+
 
 #contenido{width:98%; margin:1% auto;}
 
@@ -68,13 +80,13 @@ video{
 	}
 
 .dupla a{
-	color:rgba(255,255,255,1);
+	color:gray;
 	text-decoration:none;
 	font-weight:700;
 }
 
 .dupla a:hover{
-	color:rgba(255,255,255,1);
+	color:red;
 	text-decoration:underline;
 }
 
