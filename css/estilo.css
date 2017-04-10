@@ -93,7 +93,7 @@ video{
 
 .primera p{padding: 2% 40% 2% 2%;}
 
-.primera address{color: red; padding: 2% 40% 2% 2%; font-size:0.9em; font-style:normal;}
+.primera address{padding: 2% 40% 2% 2%; font-size:0.9em; font-style:normal;}
 
 .segunda{
 	min-height:300px;
@@ -111,7 +111,7 @@ video{
 
 .segunda p{padding: 2% 2% 2% 40%;}
 
-.segunda address{color: red; padding: 2% 2% 2% 40%; font-size:0.9em; font-style:normal;}
+.segunda address{padding: 2% 2% 2% 40%; font-size:0.9em; font-style:normal;}
 
 #somos hr{
 	clear:both;
